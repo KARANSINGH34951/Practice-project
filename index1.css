@@ -1,0 +1,49 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+}
+
+.carousel img{
+    height: 80vh;
+    width: 100%;
+    color: black;
+    font-family: 'dosis', cursive;
+}
+
+.card1 h1,h2{
+    font-size: 3rem;
+    line-height: 4rem;
+
+}
+
+
+.accordion-header{
+    background-color: #166F6C;
+}
+
+ul li a{
+    margin: 0.3rem;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar{
+    z-index: 1000;
+}
+.carousel {
+    position: relative;
+    z-index: 1; 
+    margin-top: 50px;
+}
+
+
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
